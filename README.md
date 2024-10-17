@@ -6,24 +6,6 @@ The goal of this project is to analyze housing data from two datasets: Flats and
 ## Overview
 This analysis focuses on various attributes of housing data, including price, area, number of bedrooms, and furnishings. The insights gathered from the analysis will help in understanding market dynamics and customer preferences.
 
-## Methodology
-1. **Data Collection**: Gathered data from two datasets: `flats_df` and `houses_df`, collected from the 99 Acres website.
-2. **Data Cleaning**: Cleaned data by handling missing values, standardizing formats, and extracting relevant information from string fields (e.g., extracting numerical values from text).
-3. **Data Analysis**: 
-   - Analyzed average prices based on the number of bedrooms.
-   - Compared areas of furnished vs. unfurnished houses.
-   - Identified the most common number of floors in listed houses.
-4. **Visualization**: Created visual representations of the analysis results using Seaborn and Matplotlib.
-
-## Technologies Used
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-- Excel
-- SQL
-- Jupyter Notebook
-
 ## Recommended Analysis
 ### 1. Top Societies with Most Flats
 ![Top Societies with Most Flats](https://drive.google.com/uc?id=1TVp-sHu1xitwbiqt6YWD2-_u5vJW2GUK)
@@ -45,6 +27,24 @@ This analysis focuses on various attributes of housing data, including price, ar
 
 ### 7. Distribution of Price Histogram
 ![Distribution of Price Histogram](https://drive.google.com/uc?id=17YgpseemKtFJiZ76R8208Frq82W0tRZC)
+
+## Methodology
+1. **Data Collection**: Gathered data from two datasets: `flats_df` and `houses_df`, collected from the 99 Acres website.
+2. **Data Cleaning**: Cleaned data by handling missing values, standardizing formats, and extracting relevant information from string fields (e.g., extracting numerical values from text).
+3. **Data Analysis**: 
+   - Analyzed average prices based on the number of bedrooms.
+   - Compared areas of furnished vs. unfurnished houses.
+   - Identified the most common number of floors in listed houses.
+4. **Visualization**: Created visual representations of the analysis results using Seaborn and Matplotlib.
+
+## Technologies Used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Excel
+- SQL
+- Jupyter Notebook
 
 ## License
 This project is licensed under the MIT License.
