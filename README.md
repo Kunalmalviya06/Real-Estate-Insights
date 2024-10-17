@@ -24,7 +24,7 @@ This analysis focuses on various attributes of housing data, including price, ar
 - SQL
 - Jupyter Notebook
 
-## Visualizations
+## Recommended Analysis
 ### 1. Top Societies with Most Flats
 ![Top Societies with Most Flats](https://drive.google.com/uc?id=1TVp-sHu1xitwbiqt6YWD2-_u5vJW2GUK)
 
