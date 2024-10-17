@@ -50,5 +50,5 @@ This analysis focuses on various attributes of housing data, including price, ar
 This project is licensed under the MIT License.
 
 ## Portfolio and LinkedIn
-- Portfolio: [https://peerlist.io/kunalmalviya06](https://peerlist.io/kunalmalviya06)
-- LinkedIn: [https://www.linkedin.com/in/kunal-malviya-0b6340289/](https://www.linkedin.com/in/kunal-malviya-0b6340289/)
+- [Portfolio](https://peerlist.io/kunalmalviya06)
+- [LinkedIn](https://www.linkedin.com/in/kunal-malviya-0b6340289/)
